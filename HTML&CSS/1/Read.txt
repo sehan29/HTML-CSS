@@ -1,0 +1,1 @@
+I used the basic concept of HTML and CSS to create this type of navigation bar.
